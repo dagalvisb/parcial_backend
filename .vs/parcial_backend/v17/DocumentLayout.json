@@ -1,0 +1,302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|c:\\users\\da-al\\onedrive\\escritorio\\desarrollo web 2\\parcial\\parcial_backend\\parcial_backend\\models\\teams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|solutionrelative:parcial_backend\\models\\teams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|c:\\users\\da-al\\onedrive\\escritorio\\desarrollo web 2\\parcial\\parcial_backend\\parcial_backend\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|solutionrelative:parcial_backend\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|c:\\users\\da-al\\onedrive\\escritorio\\desarrollo web 2\\parcial\\parcial_backend\\parcial_backend\\models\\matches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|solutionrelative:parcial_backend\\models\\matches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|c:\\users\\da-al\\onedrive\\escritorio\\desarrollo web 2\\parcial\\parcial_backend\\parcial_backend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|solutionrelative:parcial_backend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|c:\\users\\da-al\\onedrive\\escritorio\\desarrollo web 2\\parcial\\parcial_backend\\parcial_backend\\controllers\\equipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|solutionrelative:parcial_backend\\controllers\\equipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|c:\\users\\da-al\\onedrive\\escritorio\\desarrollo web 2\\parcial\\parcial_backend\\parcial_backend\\controllers\\partidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|solutionrelative:parcial_backend\\controllers\\partidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|c:\\users\\da-al\\onedrive\\escritorio\\desarrollo web 2\\parcial\\parcial_backend\\parcial_backend\\controllers\\jugadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|solutionrelative:parcial_backend\\controllers\\jugadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|c:\\users\\da-al\\onedrive\\escritorio\\desarrollo web 2\\parcial\\parcial_backend\\parcial_backend\\database\\storedprocedures\\sp_getallmatches.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|solutionrelative:parcial_backend\\database\\storedprocedures\\sp_getallmatches.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|c:\\users\\da-al\\onedrive\\escritorio\\desarrollo web 2\\parcial\\parcial_backend\\parcial_backend\\database\\storedprocedures\\sp_getallplayers.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|solutionrelative:parcial_backend\\database\\storedprocedures\\sp_getallplayers.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|c:\\users\\da-al\\onedrive\\escritorio\\desarrollo web 2\\parcial\\parcial_backend\\parcial_backend\\database\\storedprocedures\\sp_getallteams.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|solutionrelative:parcial_backend\\database\\storedprocedures\\sp_getallteams.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Migrations\\20251114011634_primera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:parcial_backend\\Migrations\\20251114011634_primera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Migrations\\20251114002932_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:parcial_backend\\Migrations\\20251114002932_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|c:\\users\\da-al\\onedrive\\escritorio\\desarrollo web 2\\parcial\\parcial_backend\\parcial_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|solutionrelative:parcial_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|c:\\users\\da-al\\onedrive\\escritorio\\desarrollo web 2\\parcial\\parcial_backend\\parcial_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|solutionrelative:parcial_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|c:\\users\\da-al\\onedrive\\escritorio\\desarrollo web 2\\parcial\\parcial_backend\\parcial_backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|solutionrelative:parcial_backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|c:\\users\\da-al\\onedrive\\escritorio\\desarrollo web 2\\parcial\\parcial_backend\\parcial_backend\\parcial_backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|solutionrelative:parcial_backend\\parcial_backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|c:\\users\\da-al\\onedrive\\escritorio\\desarrollo web 2\\parcial\\parcial_backend\\parcial_backend\\database\\storedprocedures\\sp_getallteams.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|solutionrelative:parcial_backend\\database\\storedprocedures\\sp_getallteams.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|c:\\users\\da-al\\onedrive\\escritorio\\desarrollo web 2\\parcial\\parcial_backend\\parcial_backend\\database\\storedprocedures\\sp_getallplayers.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|solutionrelative:parcial_backend\\database\\storedprocedures\\sp_getallplayers.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|c:\\users\\da-al\\onedrive\\escritorio\\desarrollo web 2\\parcial\\parcial_backend\\parcial_backend\\database\\storedprocedures\\sp_getallmatches.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{50740FD2-9FF5-4BEC-9822-A0F733D309E2}|parcial_backend\\parcial_backend.csproj|solutionrelative:parcial_backend\\database\\storedprocedures\\sp_getallmatches.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "sp_GetAllMatches.sql ",
+              "DocumentMoniker": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Database\\StoredProcedures\\sp_GetAllMatches.sql",
+              "RelativeDocumentMoniker": "parcial_backend\\Database\\StoredProcedures\\sp_GetAllMatches.sql",
+              "ToolTip": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Database\\StoredProcedures\\sp_GetAllMatches.sql",
+              "RelativeToolTip": "parcial_backend\\Database\\StoredProcedures\\sp_GetAllMatches.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-14T03:01:12.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PartidoController.cs",
+              "DocumentMoniker": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Controllers\\PartidoController.cs",
+              "RelativeDocumentMoniker": "parcial_backend\\Controllers\\PartidoController.cs",
+              "ToolTip": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Controllers\\PartidoController.cs",
+              "RelativeToolTip": "parcial_backend\\Controllers\\PartidoController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwCUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:23:44.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EquipoController.cs",
+              "DocumentMoniker": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Controllers\\EquipoController.cs",
+              "RelativeDocumentMoniker": "parcial_backend\\Controllers\\EquipoController.cs",
+              "ToolTip": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Controllers\\EquipoController.cs",
+              "RelativeToolTip": "parcial_backend\\Controllers\\EquipoController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAIwGYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:22:59.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "parcial_backend\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Models\\Player.cs",
+              "RelativeToolTip": "parcial_backend\\Models\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:50:34.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JugadorController.cs",
+              "DocumentMoniker": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Controllers\\JugadorController.cs",
+              "RelativeDocumentMoniker": "parcial_backend\\Controllers\\JugadorController.cs",
+              "ToolTip": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Controllers\\JugadorController.cs",
+              "RelativeToolTip": "parcial_backend\\Controllers\\JugadorController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:24:01.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Matches.cs",
+              "DocumentMoniker": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Models\\Matches.cs",
+              "RelativeDocumentMoniker": "parcial_backend\\Models\\Matches.cs",
+              "ToolTip": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Models\\Matches.cs",
+              "RelativeToolTip": "parcial_backend\\Models\\Matches.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:50:47.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "parcial_backend\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "parcial_backend\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwEsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:13:18.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Teams.cs",
+              "DocumentMoniker": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Models\\Teams.cs",
+              "RelativeDocumentMoniker": "parcial_backend\\Models\\Teams.cs",
+              "ToolTip": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Models\\Teams.cs",
+              "RelativeToolTip": "parcial_backend\\Models\\Teams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:50:17.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sp_GetAllPlayers.sql ",
+              "DocumentMoniker": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Database\\StoredProcedures\\sp_GetAllPlayers.sql",
+              "RelativeDocumentMoniker": "parcial_backend\\Database\\StoredProcedures\\sp_GetAllPlayers.sql",
+              "ToolTip": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Database\\StoredProcedures\\sp_GetAllPlayers.sql",
+              "RelativeToolTip": "parcial_backend\\Database\\StoredProcedures\\sp_GetAllPlayers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-14T02:58:55.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "sp_GetAllTeams.sql ",
+              "DocumentMoniker": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Database\\StoredProcedures\\sp_GetAllTeams.sql",
+              "RelativeDocumentMoniker": "parcial_backend\\Database\\StoredProcedures\\sp_GetAllTeams.sql",
+              "ToolTip": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Database\\StoredProcedures\\sp_GetAllTeams.sql",
+              "RelativeToolTip": "parcial_backend\\Database\\StoredProcedures\\sp_GetAllTeams.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-14T02:31:41.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20251114011634_primera.cs",
+              "DocumentMoniker": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Migrations\\20251114011634_primera.cs",
+              "RelativeDocumentMoniker": "parcial_backend\\Migrations\\20251114011634_primera.cs",
+              "ToolTip": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Migrations\\20251114011634_primera.cs",
+              "RelativeToolTip": "parcial_backend\\Migrations\\20251114011634_primera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:16:34.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20251114002932_initialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Migrations\\20251114002932_initialcreate.cs",
+              "RelativeDocumentMoniker": "parcial_backend\\Migrations\\20251114002932_initialcreate.cs",
+              "ToolTip": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Migrations\\20251114002932_initialcreate.cs",
+              "RelativeToolTip": "parcial_backend\\Migrations\\20251114002932_initialcreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T00:29:32.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Program.cs",
+              "RelativeDocumentMoniker": "parcial_backend\\Program.cs",
+              "ToolTip": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Program.cs",
+              "RelativeToolTip": "parcial_backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:35:31.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\appsettings.json",
+              "RelativeDocumentMoniker": "parcial_backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\appsettings.json",
+              "RelativeToolTip": "parcial_backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T21:34:55.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "parcial_backend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "parcial_backend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T21:24:32.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "parcial_backend.csproj",
+              "DocumentMoniker": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\parcial_backend.csproj",
+              "RelativeDocumentMoniker": "parcial_backend\\parcial_backend.csproj",
+              "ToolTip": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\parcial_backend\\parcial_backend.csproj",
+              "RelativeToolTip": "parcial_backend\\parcial_backend.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T20:42:04.819Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
