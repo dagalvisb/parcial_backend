@@ -54,6 +54,22 @@
   },
   {
     "ContainingType": "parcial_backend.Controllers.EquipoController",
+    "Method": "GetJugadoresByEquipoId",
+    "RelativePath": "api/Equipo/jugadoresEquipo/{equipoId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "equipoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "parcial_backend.Controllers.EquipoController",
     "Method": "ListaEquipos",
     "RelativePath": "api/Equipo/ListaEquipos",
     "HttpMethod": "GET",
@@ -74,7 +90,7 @@
   },
   {
     "ContainingType": "parcial_backend.Controllers.EquipoController",
-    "Method": "VerRquipos",
+    "Method": "VerEquipos",
     "RelativePath": "api/Equipo/verEquipos",
     "HttpMethod": "GET",
     "IsController": true,
@@ -164,7 +180,7 @@
   {
     "ContainingType": "parcial_backend.Controllers.JugadorController",
     "Method": "VerJugadores",
-    "RelativePath": "api/Jugador/verJugadors",
+    "RelativePath": "api/Jugador/verJugadores",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

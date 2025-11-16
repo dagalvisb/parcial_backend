@@ -75,7 +75,7 @@ namespace parcial_backend.Controllers
 
         [HttpGet]
         [Route("verEquipos")]
-        public async Task<IActionResult> VerRquipos(int id)
+        public async Task<IActionResult> VerEquipos(int id)
         {
             Teams equipo = await _context.Teams.FindAsync(id);
             if (equipo == null)
@@ -83,6 +83,21 @@ namespace parcial_backend.Controllers
                 return NotFound();
             }
             return Ok(equipo);
+        }
+
+        [HttpGet("jugadoresEquipo/{equipoId}")]
+        public async Task<IActionResult> GetJugadoresByEquipoId(int equipoId)
+        {
+            var jugadores = await _context.Players
+                .Where(j => j.EquipoId == equipoId)
+                .ToListAsync();
+
+            if (jugadores == null || !jugadores.Any())
+            {
+                return NotFound(new { message = "No se encontraron jugadores para este equipo" });
+            }
+
+            return Ok(jugadores);
         }
 
         [HttpPut]

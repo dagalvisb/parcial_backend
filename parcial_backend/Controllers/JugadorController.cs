@@ -31,6 +31,7 @@ namespace parcial_backend.Controllers
             return Ok(new { message = "Jugador creado exitosamente" });
         }
 
+
         [HttpGet]
         [Route("ListaJugadores")]
         public async Task<ActionResult<IEnumerable<Players>>> ListaJugadores()
@@ -75,7 +76,7 @@ namespace parcial_backend.Controllers
         }
 
         [HttpGet]
-        [Route("verJugadors")]
+        [Route("verJugadores")]
         public async Task<IActionResult> VerJugadores(int id)
         {
             Players jugador = await _context.Players.FindAsync(id);

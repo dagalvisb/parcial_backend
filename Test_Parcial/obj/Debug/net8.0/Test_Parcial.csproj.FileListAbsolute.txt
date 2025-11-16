@@ -1,0 +1,6 @@
+C:\Users\da-al\OneDrive\Escritorio\desarrollo web 2\Parcial\parcial_backend\Test_Parcial\obj\Debug\net8.0\Test_Parcial.csproj.AssemblyReference.cache
+C:\Users\da-al\OneDrive\Escritorio\desarrollo web 2\Parcial\parcial_backend\Test_Parcial\obj\Debug\net8.0\Test_Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\da-al\OneDrive\Escritorio\desarrollo web 2\Parcial\parcial_backend\Test_Parcial\obj\Debug\net8.0\Test_Parcial.AssemblyInfoInputs.cache
+C:\Users\da-al\OneDrive\Escritorio\desarrollo web 2\Parcial\parcial_backend\Test_Parcial\obj\Debug\net8.0\Test_Parcial.AssemblyInfo.cs
+C:\Users\da-al\OneDrive\Escritorio\desarrollo web 2\Parcial\parcial_backend\Test_Parcial\obj\Debug\net8.0\Test_Parcial.csproj.CoreCompileInputs.cache
+C:\Users\da-al\OneDrive\Escritorio\desarrollo web 2\Parcial\parcial_backend\Test_Parcial\obj\Debug\net8.0\Test_Parcial.sourcelink.json

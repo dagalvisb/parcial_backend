@@ -38,6 +38,10 @@
 	  <Folder Include="Migrations\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Test_Parcial\Test_Parcial.csproj" />
+  </ItemGroup>
+
   <ProjectExtensions>
 	<VisualStudio>
 	    <UserProperties properties_4launchsettings_1json__JsonSchema="" />

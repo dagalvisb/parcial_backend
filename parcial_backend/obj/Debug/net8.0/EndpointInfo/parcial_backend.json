@@ -96,6 +96,29 @@
         }
       }
     },
+    "/api/Equipo/jugadoresEquipo/{equipoId}": {
+      "get": {
+        "tags": [
+          "Equipo"
+        ],
+        "parameters": [
+          {
+            "name": "equipoId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Equipo/EditarEquipo": {
       "put": {
         "tags": [
@@ -228,7 +251,7 @@
         }
       }
     },
-    "/api/Jugador/verJugadors": {
+    "/api/Jugador/verJugadores": {
       "get": {
         "tags": [
           "Jugador"
