@@ -32,11 +32,7 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {
-              "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\Test_Parcial\\Test_Parcial.csproj": {
-                "projectPath": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\Test_Parcial\\Test_Parcial.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -168,7 +164,15 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[8.8.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[9.0.10, )"
             },
@@ -185,8 +189,10 @@
               "version": "[2.5.3, )"
             },
             "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[2.5.3, )"
+              "version": "[3.1.5, )"
             }
           },
           "imports": [

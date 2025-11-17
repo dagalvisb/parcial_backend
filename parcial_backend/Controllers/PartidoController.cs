@@ -76,6 +76,21 @@ namespace parcial_backend.Controllers
         }
 
         [HttpGet]
+        [Route("ListaPartidos2")]
+        public async Task<ActionResult<IEnumerable<Matches>>> ListaPartido()
+        {
+            try
+            {
+                var partidos = await _context.Matches.ToListAsync();
+                return Ok(partidos);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Error al obtener equipos: {ex.Message}");
+            }
+        }
+
+        [HttpGet]
         [Route("verPartidos")]
         public async Task<IActionResult> VerPartidos(int id)
         {

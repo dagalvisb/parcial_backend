@@ -74,6 +74,21 @@ namespace parcial_backend.Controllers
         }
 
         [HttpGet]
+        [Route("ListaEquipos2")]
+        public async Task<ActionResult<IEnumerable<Teams>>> ListaEquipo()
+        {
+            try
+            {
+                var equipos = await _context.Teams.ToListAsync();
+                return Ok(equipos);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Error al obtener equipos: {ex.Message}");
+            }
+        }
+
+        [HttpGet]
         [Route("verEquipos")]
         public async Task<IActionResult> VerEquipos(int id)
         {

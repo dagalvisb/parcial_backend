@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "4US3XAY0U8g=",
-  "success": false,
+  "dgSpecHash": "NJXaOoUFbzs=",
+  "success": true,
   "projectFilePath": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\Test_Parcial\\Test_Parcial.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\da-al\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
@@ -16,6 +16,7 @@
     "C:\\Users\\da-al\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.10\\microsoft.entityframeworkcore.9.0.10.nupkg.sha512",
     "C:\\Users\\da-al\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.10\\microsoft.entityframeworkcore.abstractions.9.0.10.nupkg.sha512",
     "C:\\Users\\da-al\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.10\\microsoft.entityframeworkcore.analyzers.9.0.10.nupkg.sha512",
+    "C:\\Users\\da-al\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\9.0.10\\microsoft.entityframeworkcore.inmemory.9.0.10.nupkg.sha512",
     "C:\\Users\\da-al\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.10\\microsoft.entityframeworkcore.relational.9.0.10.nupkg.sha512",
     "C:\\Users\\da-al\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\9.0.10\\microsoft.entityframeworkcore.sqlserver.9.0.10.nupkg.sha512",
     "C:\\Users\\da-al\\.nuget\\packages\\microsoft.extensions.apidescription.server\\8.0.0\\microsoft.extensions.apidescription.server.8.0.0.nupkg.sha512",
@@ -150,19 +151,7 @@
     "C:\\Users\\da-al\\.nuget\\packages\\xunit.core\\2.5.3\\xunit.core.2.5.3.nupkg.sha512",
     "C:\\Users\\da-al\\.nuget\\packages\\xunit.extensibility.core\\2.5.3\\xunit.extensibility.core.2.5.3.nupkg.sha512",
     "C:\\Users\\da-al\\.nuget\\packages\\xunit.extensibility.execution\\2.5.3\\xunit.extensibility.execution.2.5.3.nupkg.sha512",
-    "C:\\Users\\da-al\\.nuget\\packages\\xunit.runner.visualstudio\\2.5.3\\xunit.runner.visualstudio.2.5.3.nupkg.sha512"
+    "C:\\Users\\da-al\\.nuget\\packages\\xunit.runner.visualstudio\\3.1.5\\xunit.runner.visualstudio.3.1.5.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1108",
-      "level": "Error",
-      "message": "Ciclo detectado. \r\n  Test_Parcial -> parcial_backend -> Test_Parcial.",
-      "projectPath": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\Test_Parcial\\Test_Parcial.csproj",
-      "filePath": "C:\\Users\\da-al\\OneDrive\\Escritorio\\desarrollo web 2\\Parcial\\parcial_backend\\Test_Parcial\\Test_Parcial.csproj",
-      "libraryId": "Test_Parcial",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

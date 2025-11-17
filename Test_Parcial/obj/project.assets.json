@@ -196,6 +196,24 @@
       "Microsoft.EntityFrameworkCore.Analyzers/9.0.10": {
         "type": "package"
       },
+      "Microsoft.EntityFrameworkCore.InMemory/9.0.10": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "9.0.10",
+          "Microsoft.Extensions.Caching.Memory": "9.0.10",
+          "Microsoft.Extensions.Logging": "9.0.10"
+        },
+        "compile": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.EntityFrameworkCore.Relational/9.0.10": {
         "type": "package",
         "dependencies": {
@@ -2727,16 +2745,16 @@
           }
         }
       },
-      "xunit.runner.visualstudio/2.5.3": {
+      "xunit.runner.visualstudio/3.1.5": {
         "type": "package",
         "compile": {
-          "lib/net6.0/_._": {}
+          "lib/net8.0/_._": {}
         },
         "runtime": {
-          "lib/net6.0/_._": {}
+          "lib/net8.0/_._": {}
         },
         "build": {
-          "build/net6.0/xunit.runner.visualstudio.props": {}
+          "build/net8.0/xunit.runner.visualstudio.props": {}
         }
       },
       "parcial_backend/1.0.0": {
@@ -2747,8 +2765,7 @@
           "Microsoft.EntityFrameworkCore": "9.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.10",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "9.0.4",
-          "Swashbuckle.AspNetCore": "10.0.1",
-          "Test_Parcial": "1.0.0"
+          "Swashbuckle.AspNetCore": "10.0.1"
         },
         "compile": {
           "bin/placeholder/parcial_backend.dll": {}
@@ -3158,6 +3175,21 @@
         "docs/PACKAGE.md",
         "microsoft.entityframeworkcore.analyzers.9.0.10.nupkg.sha512",
         "microsoft.entityframeworkcore.analyzers.nuspec"
+      ]
+    },
+    "Microsoft.EntityFrameworkCore.InMemory/9.0.10": {
+      "sha512": "fRnQ7qcHNINRoErantws9k3CdjcYwvbx+fLB3ZDN/EDC7kt93J3fPB15aEbnum2JiFPbw3fgr9iOGWyxaRXD9Q==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore.inmemory/9.0.10",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "PACKAGE.md",
+        "lib/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll",
+        "lib/net8.0/Microsoft.EntityFrameworkCore.InMemory.xml",
+        "microsoft.entityframeworkcore.inmemory.9.0.10.nupkg.sha512",
+        "microsoft.entityframeworkcore.inmemory.nuspec"
       ]
     },
     "Microsoft.EntityFrameworkCore.Relational/9.0.10": {
@@ -8264,28 +8296,24 @@
         "xunit.extensibility.execution.nuspec"
       ]
     },
-    "xunit.runner.visualstudio/2.5.3": {
-      "sha512": "HFFL6O+QLEOfs555SqHii48ovVa4CqGYanY+B32BjLpPptdE+wEJmCFNXlLHdEOD5LYeayb9EroaUpydGpcybg==",
+    "xunit.runner.visualstudio/3.1.5": {
+      "sha512": "tKi7dSTwP4m5m9eXPM2Ime4Kn7xNf4x4zT9sdLO/G4hZVnQCRiMTWoSZqI/pYTVeI27oPPqHBKYI/DjJ9GsYgA==",
       "type": "package",
-      "path": "xunit.runner.visualstudio/2.5.3",
+      "path": "xunit.runner.visualstudio/3.1.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "_content/README.md",
         "_content/logo-128-transparent.png",
-        "build/net462/xunit.abstractions.dll",
-        "build/net462/xunit.runner.reporters.net452.dll",
-        "build/net462/xunit.runner.utility.net452.dll",
-        "build/net462/xunit.runner.visualstudio.props",
-        "build/net462/xunit.runner.visualstudio.testadapter.dll",
-        "build/net6.0/xunit.abstractions.dll",
-        "build/net6.0/xunit.runner.reporters.netcoreapp10.dll",
-        "build/net6.0/xunit.runner.utility.netcoreapp10.dll",
-        "build/net6.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll",
-        "build/net6.0/xunit.runner.visualstudio.props",
-        "lib/net462/_._",
-        "lib/net6.0/_._",
-        "xunit.runner.visualstudio.2.5.3.nupkg.sha512",
+        "build/net472/xunit.abstractions.dll",
+        "build/net472/xunit.runner.visualstudio.props",
+        "build/net472/xunit.runner.visualstudio.testadapter.dll",
+        "build/net8.0/xunit.abstractions.dll",
+        "build/net8.0/xunit.runner.visualstudio.props",
+        "build/net8.0/xunit.runner.visualstudio.testadapter.dll",
+        "lib/net472/_._",
+        "lib/net8.0/_._",
+        "xunit.runner.visualstudio.3.1.5.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
     },
@@ -8297,12 +8325,14 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "FluentAssertions >= 8.8.0",
       "Microsoft.EntityFrameworkCore >= 9.0.10",
+      "Microsoft.EntityFrameworkCore.InMemory >= 9.0.10",
       "Microsoft.NET.Test.Sdk >= 17.8.0",
       "coverlet.collector >= 6.0.0",
       "parcial_backend >= 1.0.0",
       "xunit >= 2.5.3",
-      "xunit.runner.visualstudio >= 2.5.3"
+      "xunit.runner.visualstudio >= 3.1.5"
     ]
   },
   "packageFolders": {
@@ -8360,7 +8390,15 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "FluentAssertions": {
+            "target": "Package",
+            "version": "[8.8.0, )"
+          },
           "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[9.0.10, )"
+          },
+          "Microsoft.EntityFrameworkCore.InMemory": {
             "target": "Package",
             "version": "[9.0.10, )"
           },
@@ -8377,8 +8415,10 @@
             "version": "[2.5.3, )"
           },
           "xunit.runner.visualstudio": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
             "target": "Package",
-            "version": "[2.5.3, )"
+            "version": "[3.1.5, )"
           }
         },
         "imports": [
@@ -8400,16 +8440,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1108",
-      "level": "Error",
-      "message": "Ciclo detectado. \r\n  Test_Parcial -> parcial_backend -> Test_Parcial.",
-      "libraryId": "Test_Parcial",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  }
 }
