@@ -57,10 +57,11 @@ namespace parcial_backend.Controllers
                     {
                         Id = reader.GetInt32(0),
                         Fecha = reader.GetDateTime(1),
-                        GolesLocal = reader.GetInt32(2),
-                        GolesVisitante = reader.GetInt32(3),
-                        EquipoLocalId = reader.GetInt32(4),
-                        EquipoVisitanteId = reader.GetInt32(5)
+                        EquipoLocalId = reader.GetInt32(2),
+                        EquipoVisitanteId = reader.GetInt32(3),
+                        GolesLocal = reader.GetInt32(4),
+                        GolesVisitante = reader.GetInt32(5)
+                        
                     });
                 }
 

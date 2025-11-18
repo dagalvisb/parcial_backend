@@ -74,6 +74,44 @@
         }
       }
     },
+    "/api/Equipo/ListaEquipos2": {
+      "get": {
+        "tags": [
+          "Equipo"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Teams"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Teams"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Teams"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/api/Equipo/verEquipos": {
       "get": {
         "tags": [
@@ -251,6 +289,44 @@
         }
       }
     },
+    "/api/Jugador/ListaJugadores2": {
+      "get": {
+        "tags": [
+          "Jugador"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Players"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Players"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Players"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/api/Jugador/verJugadores": {
       "get": {
         "tags": [
@@ -368,6 +444,44 @@
       }
     },
     "/api/Partido/ListaPartidos": {
+      "get": {
+        "tags": [
+          "Partido"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Matches"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Matches"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Matches"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Partido/ListaPartidos2": {
       "get": {
         "tags": [
           "Partido"

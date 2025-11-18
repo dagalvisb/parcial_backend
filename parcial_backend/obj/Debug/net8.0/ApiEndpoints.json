@@ -90,6 +90,26 @@
   },
   {
     "ContainingType": "parcial_backend.Controllers.EquipoController",
+    "Method": "ListaEquipo",
+    "RelativePath": "api/Equipo/ListaEquipos2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[parcial_backend.Models.Teams, parcial_backend, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "parcial_backend.Controllers.EquipoController",
     "Method": "VerEquipos",
     "RelativePath": "api/Equipo/verEquipos",
     "HttpMethod": "GET",
@@ -179,6 +199,26 @@
   },
   {
     "ContainingType": "parcial_backend.Controllers.JugadorController",
+    "Method": "ListaJugador",
+    "RelativePath": "api/Jugador/ListaJugadores2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Players, parcial_backend, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "parcial_backend.Controllers.JugadorController",
     "Method": "VerJugadores",
     "RelativePath": "api/Jugador/verJugadores",
     "HttpMethod": "GET",
@@ -250,6 +290,26 @@
     "ContainingType": "parcial_backend.Controllers.PartidoController",
     "Method": "ListaPartidos",
     "RelativePath": "api/Partido/ListaPartidos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[parcial_backend.Models.Matches, parcial_backend, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "parcial_backend.Controllers.PartidoController",
+    "Method": "ListaPartido",
+    "RelativePath": "api/Partido/ListaPartidos2",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
